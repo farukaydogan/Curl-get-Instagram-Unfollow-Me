@@ -2,6 +2,6 @@
 
 ### This repo is private, contact me for details.
 
-## [LIVE DEMO](https://unfollowers.farukaydogan.com/api/insta)
+## [LIVE DEMO](https://unfollowers.farukaydogan.com/instagramunfollowers)
 
 ### FROM KODLINE.COM.TR LARAVEL 
